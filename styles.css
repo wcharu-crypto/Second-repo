@@ -122,6 +122,20 @@ body {
     color: #fff;
 }
 
+.download-button.tertiary {
+    background-color: #fff;
+    color: #111;
+    border: 1px solid #111;
+}
+
+.download-button.tertiary:hover {
+    background-color: #f2f1ed;
+}
+
+.download-button.tertiary:active {
+    background-color: #f2f1ed;
+}
+
 .download-button.primary:hover {
     background-color: #333;
 }
